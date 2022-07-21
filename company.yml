@@ -1,0 +1,17 @@
+# YAML Document starts with ---
+# Comments start with #
+- - -
+hq: INDIA, Uttar Pradesh
+hr:
+  - hiring
+  - payroll
+  - benefits
+finance:
+  - Biling
+  - Accounts Receivable
+
+IT:
+  - Security
+  - Help Desk
+  - Software Development
+  
